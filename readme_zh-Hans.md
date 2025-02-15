@@ -10,7 +10,7 @@
 
 ![](https://img.shields.io/github/downloads/https://github.com/TrialAppleApp/trial-iOS-app/total.svg?style=flat)
 ![](https://img.shields.io/github/release-pre/https://github.com/TrialAppleApp/trial-iOS-app.svg?style=flat)
-![](https://img.shields.io/badge/platform-macOS-blue.svg?style=flat)
+![](https://img.shields.io/badge/platform-iOS-blue.svg?style=flat)
 ![](https://img.shields.io/github/license/https://github.com/TrialAppleApp/trial-iOS-app)
 ![](https://img.shields.io/github/stars/https://github.com/TrialAppleApp/trial-iOS-app)
 ![](https://img.shields.io/github/forks/https://github.com/TrialAppleApp/trial-iOS-app)
@@ -19,3 +19,7 @@
 <br/>
 
 <a href="readme.md">English</a> | <a href="readme_zh-Hans.md">简体中文</a>
+
+| 名称   | 任意版本 |
+| ------ | -------- |
+| Infuse | ✅       |

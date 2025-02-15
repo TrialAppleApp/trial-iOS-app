@@ -1,6 +1,6 @@
 <div>
 <h3>trial-iOS-app</h3>
-<p>Change the software logic to achieve the purpose of extending the trial time of many apps</p>
+<p>更改软件逻辑，以达到延长许多应用程序试用时间的目的</p>
 </div>
 
 <br/>

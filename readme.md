@@ -23,3 +23,4 @@
 | name   | anyVersion | release |
 | ------ | ---------- | ------- |
 | Infuse | ✅         | [download](https://github.com/TrialAppleApp/trial-iOS-app/releases/tag/infuse) |
+| VidHub | ✅         | [download](https://github.com/TrialAppleApp/trial-iOS-app/releases/tag/VidHub) |

@@ -18,9 +18,8 @@
 <br/>
 <br/>
 
-<a href="readme.md">English</a> | <a href="readme_zh-Hans.md">简体中文</a>
-
-| name   | anyVersion | release |
-| ------ | ---------- | ------- |
-| Infuse | ✅         | [download](https://github.com/TrialAppleApp/trial-iOS-app/releases/tag/infuse) |
-| VidHub | ✅         | [download](https://github.com/TrialAppleApp/trial-iOS-app/releases/tag/VidHub) |
+| name      | jailbreak | version | release |
+| --------- | --------- | ------- | ------- |
+| Infuse    | NO        | any     | [download](https://github.com/TrialAppleApp/trial-iOS-app/releases/tag/infuse) |
+| VidHub    | NO        | any     | [download](https://github.com/TrialAppleApp/trial-iOS-app/releases/tag/VidHub) |
+| ServerCat | NO        | 1.16.1      | [download](https://github.com/TrialAppleApp/trial-iOS-app/releases/tag/ServerCat) |
